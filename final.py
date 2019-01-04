@@ -1,1 +1,1 @@
-print("VVDN Technology Pvt Ltd !!")
+print("VVDN Technology Pvt Ltd ")
