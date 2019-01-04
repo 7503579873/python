@@ -1,1 +1,1 @@
-print("to make this necessary")
+print("to make it easy")
